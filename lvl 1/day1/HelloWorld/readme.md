@@ -1,2 +1,2 @@
-javac myfirstapp.java - создаем байт-код
-java MyfirstApp. MyApplication - запускаем 
+javac myfirstapp.java - СЃРѕР·РґР°РµРј Р±Р°Р№С‚-РєРѕРґ  
+java MyfirstApp. MyApplication - РІС‹РїРѕР»РЅРёС‚СЊ  
