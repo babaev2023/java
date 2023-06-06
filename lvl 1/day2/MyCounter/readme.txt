@@ -1,5 +1,5 @@
 
-В Аргументах пишем -rreadme.txt
+Р’ Р°СЂРіСѓРјРµРЅС‚Рµ РЅСѓР¶РЅРѕ РїСЂРѕРїРёСЃР°С‚СЊ -rreadme.txt
 
 
 Delphi 6
@@ -710,7 +710,7 @@ FTP site (anonymous access):
 
 
 ============================================================
-Copyright © 2001 Borland Software Corporation.
+Copyright В© 2001 Borland Software Corporation.
 All rights reserved.
 
 1000 10001 100 1
