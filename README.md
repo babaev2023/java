@@ -13,7 +13,8 @@
 - lab7 - Читаем файлы  
 - MyCounter - Homework  
 - lab8 - Коллекции  
-- lab9 - паттерн  Singleton
+- lab9 - паттерн  Singleton  
+- lab10 - паттерн Издатель-Подписчик  
   
  
 
