@@ -1,11 +1,12 @@
 ## Java 2  
-# Day 1  
+# Day1  
 - Hello Thread  
 - Пример: 2 потока  
 - Cancel thread  
 - synchronized - Патерн Monitor  
 
-# Day 2  
+# Day2  
+
   
  
 
