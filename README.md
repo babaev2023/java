@@ -1,4 +1,4 @@
-## Java  
+## Java 1  
 # Day 1  
 - Hello World  
 - calendar - Конвертор дня года в месяц и число  
@@ -15,6 +15,11 @@
 - lab8 - Коллекции  
 - lab9 - паттерн  Singleton  
 - lab10 - паттерн Издатель-Подписчик  
+
+## Java 2  
+# Day 1  
+- Hello Thread  
+- Пример: 2 потока  
   
  
 
