@@ -4,6 +4,9 @@
 - Пример: 2 потока  
 - Cancel thread  
 - synchronized - Патерн Monitor  
+- Homework2  
+- Threads - считаем сумму в 2 потока  
+- Executor  
 
 # Day2  
 
