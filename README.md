@@ -25,6 +25,7 @@
 - Homework2  
 - Threads - считаем сумму в 2 потока  
 - Executor  
+- Патерн ReadWriteLock  
 
 # Day2  
 
