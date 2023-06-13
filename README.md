@@ -20,6 +20,8 @@
 # Day 1  
 - Hello Thread  
 - Пример: 2 потока  
+- Cancel thread  
+- synchronized - Патерн Monitor  
   
  
 
