@@ -12,6 +12,7 @@
 # Day2  
 - SWING  
 - game_1 - кубик - демо  
+- javafxapplication1 - JavaFX  
 
 
 
