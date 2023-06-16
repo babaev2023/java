@@ -13,6 +13,7 @@
 - SWING  
 - game_1 - кубик - демо  
 - javafxapplication1 - JavaFX  
+- javafxapplication2 - JavaFX  
 
 
 

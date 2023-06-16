@@ -28,7 +28,10 @@
 - Патерн ReadWriteLock  
 
 # Day2  
-- Swing  
+- SWING  
+- game_1 - кубик - демо  
+- javafxapplication1 - JavaFX  
+- javafxapplication2 - JavaFX  
 
   
  
