@@ -37,6 +37,7 @@
 - File - создать файл, поиск файлов  
 - DB - MySQL  
 - ServerClient  
+- Socket: ClientServer  
 
   
  
