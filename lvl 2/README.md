@@ -18,6 +18,7 @@
 # Day3  
 - File - создать файл, поиск файлов  
 - DB - MySQL  
+- ServerClient  
 
 
 
